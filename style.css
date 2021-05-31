@@ -1,3 +1,12 @@
 * {
   font-family: "Montserrat", sans-serif;
 }
+
+a {
+  background-color: rgb(71, 71, 71);
+  padding: 10px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
